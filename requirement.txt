@@ -1,0 +1,8 @@
+pandas
+opencv-python
+pillow
+ultralytics
+numpy
+notebook
+matplotlib
+roboflow
